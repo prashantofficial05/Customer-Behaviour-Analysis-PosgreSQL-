@@ -9,6 +9,7 @@
     customer satisfaction and boost restaurant performance.
 
    **Background:**
+   
     At the start of 2021, Danny opened a cozy diner offering his three favorite Japanese dishes. To keep his 
     restaurant thriving, he needs to better understand his customers’ spending behavior and menu preferences. The 
     diner has gathered some basic data but cannot turn it into actionable insights. With this project, we analyze 
@@ -106,7 +107,6 @@ Bonus Q2 - Danny also requires further information about the ranking of products
     )
     SELECT 
   *, 
-    
     CASE
     WHEN member = 'N' THEN NULL
     ELSE RANK () OVER(
