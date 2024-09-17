@@ -8,13 +8,13 @@
     strategies. By leveraging data, the project aims to help Danny make informed business decisions to improve 
     customer satisfaction and boost restaurant performance.
 
-   # Background
+   **Background:**
     At the start of 2021, Danny opened a cozy diner offering his three favorite Japanese dishes. To keep his 
     restaurant thriving, he needs to better understand his customers’ spending behavior and menu preferences. The 
     diner has gathered some basic data but cannot turn it into actionable insights. With this project, we analyze the 
     data to provide recommendations on expanding the customer loyalty program and refining menu offerings.
 
-  # Problem Statement
+  **Problem:**
     Danny is looking to answer critical questions about his customers:
 
     1] What are the visiting patterns of the customers?
@@ -23,17 +23,17 @@
     Using this information, Danny plans to enhance the customer loyalty program and improve the overall dining 
     experience.
 
-  # Key Objectives
+  **Key Objectives:**
     1] Analyze customer visit patterns and spending.
     2] Identify customer favorites on the menu.
     3] Could you provide recommendations to improve menu offerings and the loyalty program?
 
- # Skills Applied
-  ** Window Functions **
-  ** CTEs **
-  ** Aggregations **
-  ** JOINs **
-  ** Write scripts to generate basic reports that can be run every period **
+ **Skills Applied:**
+    1] Window Functions 
+    2] CTEs
+    3] Aggregations 
+    4] JOINs 
+    5] Write scripts to generate basic reports that can be run every period 
 
 
 
