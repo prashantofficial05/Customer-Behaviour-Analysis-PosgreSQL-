@@ -44,6 +44,19 @@
     
     5] Write scripts to generate basic reports that can be run every period 
 
+   ![Capture](https://github.com/user-attachments/assets/9ccbae2e-fa10-410a-a183-622ad8a2eafb)
+
+
+
+
+
+
+
+
+
+
+    
+
   **Questions Explored:**
 
     1] What is the total amount each customer spent at the restaurant?
