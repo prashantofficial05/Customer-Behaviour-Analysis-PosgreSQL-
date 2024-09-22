@@ -1,5 +1,5 @@
 
-### Customer Behaviour Analysis:
+### Customer Behaviour Analysis in SQL
 
 **Introduction:**
 
